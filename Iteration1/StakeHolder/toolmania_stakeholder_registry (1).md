@@ -11,7 +11,7 @@
 |Dave Chapelle|Accountant|Budget Management/Resource Allocation|L|L|Keep everything in budget|Weekly via Teams|
 |Jaris Hema-Taylor|Quality Analyst|Testing and Quality Control|L|H|Easy to Navigate, User-friendly UX & UI.|Daily communication|
 |D’arcy Poutu|Software Engineer|a|L|H|Develop requirements and future proof software|Daily Communication|
-|Jazmyne-Lee Kingi|a|a|L|H|||
+|Jazmyne-Lee Kingi|a|a|L|Risk Management||Reduce Supply chain Risks|
 |Halley Gerrard |Hardware-Engineer||L                   |H|||
 |Nathan Drake|Project manager||H|H|||
 |Johnny Sins    |Client Relationship Manager||H|L|Client’s requirements are met||
