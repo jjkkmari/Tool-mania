@@ -57,5 +57,3 @@
 **Discussion:** Finish projects and finilize merging process for all members. 
 **Conclusion:** finilize projects and communicate. 
 
-
-

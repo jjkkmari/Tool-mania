@@ -42,6 +42,3 @@
 --- 
 ## Other Information 
 **Date of next meeting:** 4/3/2026
-
-
-
